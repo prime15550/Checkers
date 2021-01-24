@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>blackKing.png</file>
+        <file>blackMan.png</file>
+        <file>whiteKing.png</file>
+        <file>whiteMan.png</file>
+        <file>leftButton.png</file>
+        <file>rightButton.png</file>
+        <file>upButton.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>help</class>
+ <widget class="QDialog" name="help">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>411</width>
+    <height>167</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Help</string>
+  </property>
+  <widget class="QPlainTextEdit" name="plainTextEdit">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>391</width>
+     <height>151</height>
+    </rect>
+   </property>
+   <property name="plainText">
+    <string>The player has to play the stone he removed from his place, he can never give up his move.
+
+Both sides; If he has the opportunity to take the opponent's piece, he must do so at the first move.
+
+It is obligatory to take stones that are more in case of getting stones in several directions.
+
+Checkers cannot be bounced</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
